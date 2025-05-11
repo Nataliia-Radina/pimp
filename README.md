@@ -2,6 +2,8 @@
 
 A decentralized prediction market built on Oasis Sapphire with private betting capabilities using ROFL encryption.
 
+🌐 [Live Demo](https://nataliia-radina.github.io/pimp/)
+
 ## Features
 
 - Private predictions via ROFL encryption
